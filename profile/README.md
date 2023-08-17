@@ -7,17 +7,17 @@
 
 ## Who We Are
 
-We develop discord.js, a powerful JavaScript/TypeScript library that allows one to interact with the Discord API. discord.js is also maintained by developers like you—feel free to contribute! 
+We develop Games, a powerful Game company that designs everything! 
 
-- [Discord Server]
+- [Owner]
 - [Guide]
 - [Related Libraries]
 - [Website]
 
 Our current project can be viewed [here][Project].
 
-[Discord server]: https://discord.gg/djs
-[Guide]: https://discordjs.guide/
+[Owner]: https://github.com/Raphael065
+[Guide]: https://github.com/Raphael065
 [Related Libraries]: https://discord.com/developers/docs/topics/community-resources#libraries
-[Project]: https://github.com/orgs/discordjs/projects/2
-[Website]: https://discord.js.org/
+[Project]: https://github.com/Raphael065
+[Website]: linktr.ee/raphael065

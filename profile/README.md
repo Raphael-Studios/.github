@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://linktr.ee/raphael065/"><img src="https://i.ibb.co/KjrM4D0/ymhryjcv-removebg-preview.png" width="150" alt="WontonGames" /></a>
+		<a href="https://linktr.ee/raphael065/"><img src="https://i.ibb.co/KjrM4D0/ymhryjcv-removebg-preview.png" width="550" alt="WontonGames" /></a>
 	</p>
 </div>
 
